@@ -137,7 +137,7 @@ void registrarUsuario() {
     cout << "Ingrese su contrasena: "<<endl;
     cin >> nuevoUsuario.contrasena;
 
-    if (contarUsuariosRegistrados() == 0 || contarUsuariosRegistrados() == 4) {// Profe es un 4 para hacer pruebas con el usuario 4 pero el original es el 0
+    if (contarUsuariosRegistrados() == 0 || contarUsuariosRegistrados() == 4) {// es un 4 para hacer pruebas con el usuario 4 pero el original es el 0
         nuevoUsuario.rol = 'A';
     } else {
         nuevoUsuario.rol = 'U';
