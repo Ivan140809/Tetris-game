@@ -1,10 +1,3 @@
-# Portafolio de Proyectos de Programacion
-
-Aca estan almacenados todos mis proyectos de final de semestre, voluntarios y relacionados con programacion para mi CV.
-
----
-
-## Proyectos
 
 ### Tetris en C++
 
